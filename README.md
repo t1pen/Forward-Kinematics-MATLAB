@@ -1,2 +1,2 @@
 # Forward-Kinematics-MATLAB
-Forward Kinematics
+Forward Kinematics in Robotics 2 using MATLAB
